@@ -2,7 +2,7 @@
 
 HungryHub is a food delivery app that offers convenient food delivery services throughout Ranchi. With HungryHub, users can order a wide variety of delicious dishes from nearby restaurants. This project is built using modern web technologies and provides several key features to enhance the food ordering experience.
 
-![HungryHub Demo](https://hungryhubsid18.netlify.app/)
+<a href="https://hungryhubsid18.netlify.app/">HungryHub Demo</a>
 
 ## Table of Contents
 
