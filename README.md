@@ -1,8 +1,8 @@
-# CraveBite - Food Delivery App
+# HungryHub - Food Delivery App
 
-CraveBite is a food delivery app that offers convenient food delivery services throughout Ranchi. With CraveBite, users can order a wide variety of delicious dishes from nearby restaurants. This project is built using modern web technologies and provides several key features to enhance the food ordering experience.
+HungryHub is a food delivery app that offers convenient food delivery services throughout Ranchi. With HungryHub, users can order a wide variety of delicious dishes from nearby restaurants. This project is built using modern web technologies and provides several key features to enhance the food ordering experience.
 
-![CraveBite Demo](https://cravebite.netlify.app/)
+![HungryHub Demo](https://HungryHub.netlify.app/)
 
 ## Table of Contents
 
